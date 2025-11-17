@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+session/
+predictions/
+data/Annotation_Femur_120_139_Kwanruethai_Kathy/
+data/Femur/Group 5/
+*.png
